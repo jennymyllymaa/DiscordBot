@@ -279,4 +279,6 @@ async def help_command(ctx):
     help_message += "```" 
     await ctx.send(help_message)
 
+from keep_alive import keep_alive
+keep_alive()
 bot.run(TOKEN)
