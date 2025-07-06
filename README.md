@@ -22,7 +22,7 @@ This is a Discord bot with various utility and AI-powered commands.
 
 1.  **Clone the repository (if applicable) or navigate to your project directory:**
     ```bash
-    cd C:\Users\Jenny\Desktop\DiscordBot
+    cd ....\DiscordBot
     ```
 
 2.  **Create a virtual environment (recommended):**
